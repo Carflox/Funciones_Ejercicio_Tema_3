@@ -1,7 +1,0 @@
-Creamos la clase Coche.
-Dentro de la clase, definimos una variable privada numPuertas que almacenará el número de puertas que tiene el coche. La inicializamos en 0 en el constructor.
-Creamos una función pública getNumPuertas() que devuelve el número de puertas.
-Creamos otra función pública incrementarPuertas() que incrementa el número de puertas en 1.
-En el main, creamos un objeto miCoche de la clase Coche.
-Invocamos la función incrementarPuertas() para añadir una puerta al coche.
-Finalmente, mostramos el número de puertas que tiene el objeto miCoche utilizando la función getNumPuertas() y la función println() para imprimir el resultado en la consola.
